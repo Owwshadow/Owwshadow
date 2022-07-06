@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=😋හේ+හේ+❤️ම්ම්ම්...;😏මාව+Follow+කරේ+නැද්ද?😭;🤭මාව+follow+කරන්න+ඉතිං🌹;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=🙄😐ඒ+හලෝ;😥මෙහෙම+හිටියට😕;🤭මන්+හලි+අහින්සකයි+හොඳේ😜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=🙄😐ඒ+හලෝ;😥මෙහෙම+හිටියට😕+🤭මම+අමු+ගවය+ඈ😥)](https://git.io/typing-svg)
 
 
 ## ``` Contact Me ```
