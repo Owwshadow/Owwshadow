@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Onitha+Wathmira;A+friend+of+prabhasha2006)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Onitha+Wathmira)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=🙄😐ඒ+හලෝ;😥මෙහෙම+හිටියට😕;🤭මම+අමු+ගවය+ඈ😥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A007F9&lines=🙄😐ඒ+හලෝ;😥මෙහෙම+හිටියට😕;🤭මම+අමු+ගවය+ඈ😥)](https://git.io/typing-svg)
 
 
 ## ``` Contact Me ```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://github.com/Alien-alfa/PublicBot/raw/main/wlogo.svg.png" width="115"/>
+<a href="https://wa.me/94766693394"><img src="https://github.com/Alien-alfa/PublicBot/raw/main/wlogo.svg.png" width="115"/>
 <a href="https://t.me/kumuthu"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" width="125"/> 
 <a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
 </p>
@@ -34,16 +34,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://i.ibb.co/NghKqgK/IMG-20220705-WA0053.jpg" alt="nz" width="400"/>
-</p>
-
-<p align="center">
 <a href="https://sites.google.com/view/red-dragon-bot/home">🎸prabhasha2006 Red-Dragon-Bot Website Here😜💌
 </p>
 
-<p align="center">
-<img src="https://i.ibb.co/h8SkC9j/IMG-20220705-231733.jpg" alt="nz" width="400"/>
-</p>
 
 <p align="center">
 <img src=
